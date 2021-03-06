@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Uiproject_20210306"
