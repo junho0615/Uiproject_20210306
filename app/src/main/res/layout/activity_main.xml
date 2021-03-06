@@ -11,7 +11,8 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/junho_logo01"/>
+        android:scaleType="center"
+        android:src="@drawable/junho_logo01" />
 
     <TextView
         android:layout_width="wrap_content"
